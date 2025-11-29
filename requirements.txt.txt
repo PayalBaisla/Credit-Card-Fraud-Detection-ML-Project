@@ -1,0 +1,8 @@
+requirements.txt
+
+numpy
+pandas
+scikit-learn
+streamlit
+pyttsx3
+matplotlib
